@@ -7,5 +7,6 @@ More detailed versions of this as well as a version that can output to an excel 
 
 # To Do List
 1. Create the detailed README
-2. Update tool to allow a GUI based interface.
-3. Allow for the outputing to an excel document or CSV type formats.
+2. Plugins to read username and file path to be used in file creation and code dialogue.
+3. Update tool to allow a GUI based interface.
+4. Allow for the outputing to an excel document or CSV type formats.
